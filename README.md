@@ -159,8 +159,8 @@ This project is open-source and available under the **MIT License**.
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**RANDRIANAIVO Andrandraina**  
+[GitHub](https://github.com/Rahkillah/) | [LinkedIn](https://www.linkedin.com/in/andrandraina-randrianaivo/)
 
 ---
 
