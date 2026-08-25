@@ -16,14 +16,14 @@ This project implements a comprehensive **Network Intrusion Detection System** u
 The core objective is to develop and evaluate a predictive model capable of accurately identifying network intrusions in real-time or near real-time, which is crucial for maintaining the security and integrity of modern network infrastructures.
 
 ## 📁 Project Structure
-
+```
 network_security_prediction/
 │
 ├── network_security_prediction.ipynb # Main Jupyter Notebook
 ├── Train_data.csv # Training dataset (NSL-KDD)
 ├── Test_data.csv # Testing dataset (NSL-KDD)
 └── README.md # Project documentation
-
+```
 
 ## 🧠 Algorithms & Techniques
 
